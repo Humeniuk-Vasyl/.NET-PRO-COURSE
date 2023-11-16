@@ -1,0 +1,15 @@
+D:\V_A_S_Y_l\VisualStudioProjects\C#\C#_NET_Pro\L1\IntroduceL1\IntroduceL1\bin\Debug\net6.0\IntroduceL1.exe
+D:\V_A_S_Y_l\VisualStudioProjects\C#\C#_NET_Pro\L1\IntroduceL1\IntroduceL1\bin\Debug\net6.0\IntroduceL1.deps.json
+D:\V_A_S_Y_l\VisualStudioProjects\C#\C#_NET_Pro\L1\IntroduceL1\IntroduceL1\bin\Debug\net6.0\IntroduceL1.runtimeconfig.json
+D:\V_A_S_Y_l\VisualStudioProjects\C#\C#_NET_Pro\L1\IntroduceL1\IntroduceL1\bin\Debug\net6.0\IntroduceL1.dll
+D:\V_A_S_Y_l\VisualStudioProjects\C#\C#_NET_Pro\L1\IntroduceL1\IntroduceL1\bin\Debug\net6.0\IntroduceL1.pdb
+D:\V_A_S_Y_l\VisualStudioProjects\C#\C#_NET_Pro\L1\IntroduceL1\IntroduceL1\obj\Debug\net6.0\IntroduceL1.csproj.AssemblyReference.cache
+D:\V_A_S_Y_l\VisualStudioProjects\C#\C#_NET_Pro\L1\IntroduceL1\IntroduceL1\obj\Debug\net6.0\IntroduceL1.GeneratedMSBuildEditorConfig.editorconfig
+D:\V_A_S_Y_l\VisualStudioProjects\C#\C#_NET_Pro\L1\IntroduceL1\IntroduceL1\obj\Debug\net6.0\IntroduceL1.AssemblyInfoInputs.cache
+D:\V_A_S_Y_l\VisualStudioProjects\C#\C#_NET_Pro\L1\IntroduceL1\IntroduceL1\obj\Debug\net6.0\IntroduceL1.AssemblyInfo.cs
+D:\V_A_S_Y_l\VisualStudioProjects\C#\C#_NET_Pro\L1\IntroduceL1\IntroduceL1\obj\Debug\net6.0\IntroduceL1.csproj.CoreCompileInputs.cache
+D:\V_A_S_Y_l\VisualStudioProjects\C#\C#_NET_Pro\L1\IntroduceL1\IntroduceL1\obj\Debug\net6.0\IntroduceL1.dll
+D:\V_A_S_Y_l\VisualStudioProjects\C#\C#_NET_Pro\L1\IntroduceL1\IntroduceL1\obj\Debug\net6.0\refint\IntroduceL1.dll
+D:\V_A_S_Y_l\VisualStudioProjects\C#\C#_NET_Pro\L1\IntroduceL1\IntroduceL1\obj\Debug\net6.0\IntroduceL1.pdb
+D:\V_A_S_Y_l\VisualStudioProjects\C#\C#_NET_Pro\L1\IntroduceL1\IntroduceL1\obj\Debug\net6.0\IntroduceL1.genruntimeconfig.cache
+D:\V_A_S_Y_l\VisualStudioProjects\C#\C#_NET_Pro\L1\IntroduceL1\IntroduceL1\obj\Debug\net6.0\ref\IntroduceL1.dll
