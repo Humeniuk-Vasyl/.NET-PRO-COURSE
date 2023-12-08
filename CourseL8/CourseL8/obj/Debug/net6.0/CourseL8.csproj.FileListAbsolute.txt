@@ -1,0 +1,15 @@
+D:\V_A_S_Y_l\VisualStudioProjects\C#\C#_NET_Pro\L8\CourseL8\CourseL8\bin\Debug\net6.0\CourseL8.exe
+D:\V_A_S_Y_l\VisualStudioProjects\C#\C#_NET_Pro\L8\CourseL8\CourseL8\bin\Debug\net6.0\CourseL8.deps.json
+D:\V_A_S_Y_l\VisualStudioProjects\C#\C#_NET_Pro\L8\CourseL8\CourseL8\bin\Debug\net6.0\CourseL8.runtimeconfig.json
+D:\V_A_S_Y_l\VisualStudioProjects\C#\C#_NET_Pro\L8\CourseL8\CourseL8\bin\Debug\net6.0\CourseL8.dll
+D:\V_A_S_Y_l\VisualStudioProjects\C#\C#_NET_Pro\L8\CourseL8\CourseL8\bin\Debug\net6.0\CourseL8.pdb
+D:\V_A_S_Y_l\VisualStudioProjects\C#\C#_NET_Pro\L8\CourseL8\CourseL8\obj\Debug\net6.0\CourseL8.csproj.AssemblyReference.cache
+D:\V_A_S_Y_l\VisualStudioProjects\C#\C#_NET_Pro\L8\CourseL8\CourseL8\obj\Debug\net6.0\CourseL8.GeneratedMSBuildEditorConfig.editorconfig
+D:\V_A_S_Y_l\VisualStudioProjects\C#\C#_NET_Pro\L8\CourseL8\CourseL8\obj\Debug\net6.0\CourseL8.AssemblyInfoInputs.cache
+D:\V_A_S_Y_l\VisualStudioProjects\C#\C#_NET_Pro\L8\CourseL8\CourseL8\obj\Debug\net6.0\CourseL8.AssemblyInfo.cs
+D:\V_A_S_Y_l\VisualStudioProjects\C#\C#_NET_Pro\L8\CourseL8\CourseL8\obj\Debug\net6.0\CourseL8.csproj.CoreCompileInputs.cache
+D:\V_A_S_Y_l\VisualStudioProjects\C#\C#_NET_Pro\L8\CourseL8\CourseL8\obj\Debug\net6.0\CourseL8.dll
+D:\V_A_S_Y_l\VisualStudioProjects\C#\C#_NET_Pro\L8\CourseL8\CourseL8\obj\Debug\net6.0\refint\CourseL8.dll
+D:\V_A_S_Y_l\VisualStudioProjects\C#\C#_NET_Pro\L8\CourseL8\CourseL8\obj\Debug\net6.0\CourseL8.pdb
+D:\V_A_S_Y_l\VisualStudioProjects\C#\C#_NET_Pro\L8\CourseL8\CourseL8\obj\Debug\net6.0\CourseL8.genruntimeconfig.cache
+D:\V_A_S_Y_l\VisualStudioProjects\C#\C#_NET_Pro\L8\CourseL8\CourseL8\obj\Debug\net6.0\ref\CourseL8.dll
