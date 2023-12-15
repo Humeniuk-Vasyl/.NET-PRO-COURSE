@@ -1,0 +1,15 @@
+D:\V_A_S_Y_l\VisualStudioProjects\C#\C#_NET_Pro\L9\CourseL9\CourseL9\bin\Debug\net6.0\CourseL9.exe
+D:\V_A_S_Y_l\VisualStudioProjects\C#\C#_NET_Pro\L9\CourseL9\CourseL9\bin\Debug\net6.0\CourseL9.deps.json
+D:\V_A_S_Y_l\VisualStudioProjects\C#\C#_NET_Pro\L9\CourseL9\CourseL9\bin\Debug\net6.0\CourseL9.runtimeconfig.json
+D:\V_A_S_Y_l\VisualStudioProjects\C#\C#_NET_Pro\L9\CourseL9\CourseL9\bin\Debug\net6.0\CourseL9.dll
+D:\V_A_S_Y_l\VisualStudioProjects\C#\C#_NET_Pro\L9\CourseL9\CourseL9\bin\Debug\net6.0\CourseL9.pdb
+D:\V_A_S_Y_l\VisualStudioProjects\C#\C#_NET_Pro\L9\CourseL9\CourseL9\obj\Debug\net6.0\CourseL9.csproj.AssemblyReference.cache
+D:\V_A_S_Y_l\VisualStudioProjects\C#\C#_NET_Pro\L9\CourseL9\CourseL9\obj\Debug\net6.0\CourseL9.GeneratedMSBuildEditorConfig.editorconfig
+D:\V_A_S_Y_l\VisualStudioProjects\C#\C#_NET_Pro\L9\CourseL9\CourseL9\obj\Debug\net6.0\CourseL9.AssemblyInfoInputs.cache
+D:\V_A_S_Y_l\VisualStudioProjects\C#\C#_NET_Pro\L9\CourseL9\CourseL9\obj\Debug\net6.0\CourseL9.AssemblyInfo.cs
+D:\V_A_S_Y_l\VisualStudioProjects\C#\C#_NET_Pro\L9\CourseL9\CourseL9\obj\Debug\net6.0\CourseL9.csproj.CoreCompileInputs.cache
+D:\V_A_S_Y_l\VisualStudioProjects\C#\C#_NET_Pro\L9\CourseL9\CourseL9\obj\Debug\net6.0\CourseL9.dll
+D:\V_A_S_Y_l\VisualStudioProjects\C#\C#_NET_Pro\L9\CourseL9\CourseL9\obj\Debug\net6.0\refint\CourseL9.dll
+D:\V_A_S_Y_l\VisualStudioProjects\C#\C#_NET_Pro\L9\CourseL9\CourseL9\obj\Debug\net6.0\CourseL9.pdb
+D:\V_A_S_Y_l\VisualStudioProjects\C#\C#_NET_Pro\L9\CourseL9\CourseL9\obj\Debug\net6.0\CourseL9.genruntimeconfig.cache
+D:\V_A_S_Y_l\VisualStudioProjects\C#\C#_NET_Pro\L9\CourseL9\CourseL9\obj\Debug\net6.0\ref\CourseL9.dll
