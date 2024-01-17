@@ -1,0 +1,15 @@
+D:\V_A_S_Y_l\VisualStudioProjects\C#\C#_NET_Pro\Part2\L15\CourseL15\CourseL15\bin\Debug\net6.0\CourseL15.exe
+D:\V_A_S_Y_l\VisualStudioProjects\C#\C#_NET_Pro\Part2\L15\CourseL15\CourseL15\bin\Debug\net6.0\CourseL15.deps.json
+D:\V_A_S_Y_l\VisualStudioProjects\C#\C#_NET_Pro\Part2\L15\CourseL15\CourseL15\bin\Debug\net6.0\CourseL15.runtimeconfig.json
+D:\V_A_S_Y_l\VisualStudioProjects\C#\C#_NET_Pro\Part2\L15\CourseL15\CourseL15\bin\Debug\net6.0\CourseL15.dll
+D:\V_A_S_Y_l\VisualStudioProjects\C#\C#_NET_Pro\Part2\L15\CourseL15\CourseL15\bin\Debug\net6.0\CourseL15.pdb
+D:\V_A_S_Y_l\VisualStudioProjects\C#\C#_NET_Pro\Part2\L15\CourseL15\CourseL15\obj\Debug\net6.0\CourseL15.csproj.AssemblyReference.cache
+D:\V_A_S_Y_l\VisualStudioProjects\C#\C#_NET_Pro\Part2\L15\CourseL15\CourseL15\obj\Debug\net6.0\CourseL15.GeneratedMSBuildEditorConfig.editorconfig
+D:\V_A_S_Y_l\VisualStudioProjects\C#\C#_NET_Pro\Part2\L15\CourseL15\CourseL15\obj\Debug\net6.0\CourseL15.AssemblyInfoInputs.cache
+D:\V_A_S_Y_l\VisualStudioProjects\C#\C#_NET_Pro\Part2\L15\CourseL15\CourseL15\obj\Debug\net6.0\CourseL15.AssemblyInfo.cs
+D:\V_A_S_Y_l\VisualStudioProjects\C#\C#_NET_Pro\Part2\L15\CourseL15\CourseL15\obj\Debug\net6.0\CourseL15.csproj.CoreCompileInputs.cache
+D:\V_A_S_Y_l\VisualStudioProjects\C#\C#_NET_Pro\Part2\L15\CourseL15\CourseL15\obj\Debug\net6.0\CourseL15.dll
+D:\V_A_S_Y_l\VisualStudioProjects\C#\C#_NET_Pro\Part2\L15\CourseL15\CourseL15\obj\Debug\net6.0\refint\CourseL15.dll
+D:\V_A_S_Y_l\VisualStudioProjects\C#\C#_NET_Pro\Part2\L15\CourseL15\CourseL15\obj\Debug\net6.0\CourseL15.pdb
+D:\V_A_S_Y_l\VisualStudioProjects\C#\C#_NET_Pro\Part2\L15\CourseL15\CourseL15\obj\Debug\net6.0\CourseL15.genruntimeconfig.cache
+D:\V_A_S_Y_l\VisualStudioProjects\C#\C#_NET_Pro\Part2\L15\CourseL15\CourseL15\obj\Debug\net6.0\ref\CourseL15.dll
