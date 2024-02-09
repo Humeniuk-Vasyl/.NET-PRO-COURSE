@@ -1,0 +1,96 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "CourseL19/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/CourseL19.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CourseL19.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CourseL19/1.0.0": {
+      "type": "project",
+      "path": "../CourseL19/CourseL19.csproj",
+      "msbuildProject": "../CourseL19/CourseL19.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "CourseL19 >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\gvrki\\.nuget\\packages\\": {},
+    "D:\\V_A_S_Y_l\\Programs\\VS2022\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\V_A_S_Y_l\\VisualStudioProjects\\C#\\C#_NET_Pro\\Part2\\L19\\CourseL19\\Ex2\\Ex2.csproj",
+      "projectName": "Ex2",
+      "projectPath": "D:\\V_A_S_Y_l\\VisualStudioProjects\\C#\\C#_NET_Pro\\Part2\\L19\\CourseL19\\Ex2\\Ex2.csproj",
+      "packagesPath": "C:\\Users\\gvrki\\.nuget\\packages\\",
+      "outputPath": "D:\\V_A_S_Y_l\\VisualStudioProjects\\C#\\C#_NET_Pro\\Part2\\L19\\CourseL19\\Ex2\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "D:\\V_A_S_Y_l\\Programs\\VS2022\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\gvrki\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "D:\\V_A_S_Y_l\\VisualStudioProjects\\C#\\C#_NET_Pro\\Part2\\L19\\CourseL19\\CourseL19\\CourseL19.csproj": {
+              "projectPath": "D:\\V_A_S_Y_l\\VisualStudioProjects\\C#\\C#_NET_Pro\\Part2\\L19\\CourseL19\\CourseL19\\CourseL19.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
