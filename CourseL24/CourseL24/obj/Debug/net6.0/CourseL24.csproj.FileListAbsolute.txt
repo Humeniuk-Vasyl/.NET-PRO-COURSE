@@ -1,0 +1,15 @@
+D:\V_A_S_Y_l\VisualStudioProjects\C#\C#_NET_Pro\Part2\L24\CourseL24\CourseL24\bin\Debug\net6.0\CourseL24.exe
+D:\V_A_S_Y_l\VisualStudioProjects\C#\C#_NET_Pro\Part2\L24\CourseL24\CourseL24\bin\Debug\net6.0\CourseL24.deps.json
+D:\V_A_S_Y_l\VisualStudioProjects\C#\C#_NET_Pro\Part2\L24\CourseL24\CourseL24\bin\Debug\net6.0\CourseL24.runtimeconfig.json
+D:\V_A_S_Y_l\VisualStudioProjects\C#\C#_NET_Pro\Part2\L24\CourseL24\CourseL24\bin\Debug\net6.0\CourseL24.dll
+D:\V_A_S_Y_l\VisualStudioProjects\C#\C#_NET_Pro\Part2\L24\CourseL24\CourseL24\bin\Debug\net6.0\CourseL24.pdb
+D:\V_A_S_Y_l\VisualStudioProjects\C#\C#_NET_Pro\Part2\L24\CourseL24\CourseL24\obj\Debug\net6.0\CourseL24.csproj.AssemblyReference.cache
+D:\V_A_S_Y_l\VisualStudioProjects\C#\C#_NET_Pro\Part2\L24\CourseL24\CourseL24\obj\Debug\net6.0\CourseL24.GeneratedMSBuildEditorConfig.editorconfig
+D:\V_A_S_Y_l\VisualStudioProjects\C#\C#_NET_Pro\Part2\L24\CourseL24\CourseL24\obj\Debug\net6.0\CourseL24.AssemblyInfoInputs.cache
+D:\V_A_S_Y_l\VisualStudioProjects\C#\C#_NET_Pro\Part2\L24\CourseL24\CourseL24\obj\Debug\net6.0\CourseL24.AssemblyInfo.cs
+D:\V_A_S_Y_l\VisualStudioProjects\C#\C#_NET_Pro\Part2\L24\CourseL24\CourseL24\obj\Debug\net6.0\CourseL24.csproj.CoreCompileInputs.cache
+D:\V_A_S_Y_l\VisualStudioProjects\C#\C#_NET_Pro\Part2\L24\CourseL24\CourseL24\obj\Debug\net6.0\CourseL24.dll
+D:\V_A_S_Y_l\VisualStudioProjects\C#\C#_NET_Pro\Part2\L24\CourseL24\CourseL24\obj\Debug\net6.0\refint\CourseL24.dll
+D:\V_A_S_Y_l\VisualStudioProjects\C#\C#_NET_Pro\Part2\L24\CourseL24\CourseL24\obj\Debug\net6.0\CourseL24.pdb
+D:\V_A_S_Y_l\VisualStudioProjects\C#\C#_NET_Pro\Part2\L24\CourseL24\CourseL24\obj\Debug\net6.0\CourseL24.genruntimeconfig.cache
+D:\V_A_S_Y_l\VisualStudioProjects\C#\C#_NET_Pro\Part2\L24\CourseL24\CourseL24\obj\Debug\net6.0\ref\CourseL24.dll
