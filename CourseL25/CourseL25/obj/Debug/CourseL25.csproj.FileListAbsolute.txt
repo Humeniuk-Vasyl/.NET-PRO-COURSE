@@ -1,0 +1,8 @@
+D:\V_A_S_Y_l\VisualStudioProjects\C#\C#_NET_Pro\Part2\L25\L25\CourseL25\CourseL25\bin\Debug\CourseL25.exe.config
+D:\V_A_S_Y_l\VisualStudioProjects\C#\C#_NET_Pro\Part2\L25\L25\CourseL25\CourseL25\bin\Debug\CourseL25.exe
+D:\V_A_S_Y_l\VisualStudioProjects\C#\C#_NET_Pro\Part2\L25\L25\CourseL25\CourseL25\bin\Debug\CourseL25.pdb
+D:\V_A_S_Y_l\VisualStudioProjects\C#\C#_NET_Pro\Part2\L25\L25\CourseL25\CourseL25\obj\Debug\CourseL25.csproj.AssemblyReference.cache
+D:\V_A_S_Y_l\VisualStudioProjects\C#\C#_NET_Pro\Part2\L25\L25\CourseL25\CourseL25\obj\Debug\CourseL25.csproj.SuggestedBindingRedirects.cache
+D:\V_A_S_Y_l\VisualStudioProjects\C#\C#_NET_Pro\Part2\L25\L25\CourseL25\CourseL25\obj\Debug\CourseL25.csproj.CoreCompileInputs.cache
+D:\V_A_S_Y_l\VisualStudioProjects\C#\C#_NET_Pro\Part2\L25\L25\CourseL25\CourseL25\obj\Debug\CourseL25.exe
+D:\V_A_S_Y_l\VisualStudioProjects\C#\C#_NET_Pro\Part2\L25\L25\CourseL25\CourseL25\obj\Debug\CourseL25.pdb
