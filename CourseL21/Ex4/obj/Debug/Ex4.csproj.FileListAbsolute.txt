@@ -1,0 +1,11 @@
+D:\V_A_S_Y_l\VisualStudioProjects\C#\C#_NET_Pro\Part2\L21\CourseL21\Ex4\bin\Debug\Ex4.exe.config
+D:\V_A_S_Y_l\VisualStudioProjects\C#\C#_NET_Pro\Part2\L21\CourseL21\Ex4\bin\Debug\Ex4.exe
+D:\V_A_S_Y_l\VisualStudioProjects\C#\C#_NET_Pro\Part2\L21\CourseL21\Ex4\bin\Debug\Ex4.pdb
+D:\V_A_S_Y_l\VisualStudioProjects\C#\C#_NET_Pro\Part2\L21\CourseL21\Ex4\obj\Debug\Ex4.csproj.AssemblyReference.cache
+D:\V_A_S_Y_l\VisualStudioProjects\C#\C#_NET_Pro\Part2\L21\CourseL21\Ex4\obj\Debug\Ex4.csproj.SuggestedBindingRedirects.cache
+D:\V_A_S_Y_l\VisualStudioProjects\C#\C#_NET_Pro\Part2\L21\CourseL21\Ex4\obj\Debug\Ex4.Form1.resources
+D:\V_A_S_Y_l\VisualStudioProjects\C#\C#_NET_Pro\Part2\L21\CourseL21\Ex4\obj\Debug\Ex4.Properties.Resources.resources
+D:\V_A_S_Y_l\VisualStudioProjects\C#\C#_NET_Pro\Part2\L21\CourseL21\Ex4\obj\Debug\Ex4.csproj.GenerateResource.cache
+D:\V_A_S_Y_l\VisualStudioProjects\C#\C#_NET_Pro\Part2\L21\CourseL21\Ex4\obj\Debug\Ex4.csproj.CoreCompileInputs.cache
+D:\V_A_S_Y_l\VisualStudioProjects\C#\C#_NET_Pro\Part2\L21\CourseL21\Ex4\obj\Debug\Ex4.exe
+D:\V_A_S_Y_l\VisualStudioProjects\C#\C#_NET_Pro\Part2\L21\CourseL21\Ex4\obj\Debug\Ex4.pdb
